@@ -12,7 +12,6 @@ While it’s generally accepted that nonprofits are crucial public goods, not al
 
 ### Datafolio 
 
-A link to my team's datafolio can be found here:
-!(https://github.com/ifemiller/DS4A-Capstone-Project/blob/main/Final%20Datafolio.JPG)
+A link to my team's datafolio can be found here: https://github.com/ifemiller/DS4A-Capstone-Project/blob/main/Final%20Datafolio.JPG
 
 
