@@ -8,7 +8,7 @@ Correlation One has made a dedicated effort to make the data skills needed for t
 Back in 2015, the United Nations adopted 17 Sustainable Development Goals (SDG) as a way to measure outcomes and inspire action to resolve a number of development targets. Goals like “Zero Hunger” and “Reduced Inequalities” serve as aspirational outcomes for societies to reach toward, as well as useful benchmarks for assessing our current state. The UN’s US Cities Sustainable Development Report provided a strong framework for our analysis, as the 17 goals covered a range of social, economic, and health-related outcomes to provide a holistic quantitative assessment of a city’s success. Mapping the nonprofit landscape within the context of the SDG data will allow us to measure the positive externality of nonprofits, and the value they provide to both individuals and the community more broadly. 
 
 
-![SDGs](/images/SDGs.jpg)
+![SDGs](https://github.com/ifemiller/DS4A-Capstone-Project/blob/main/SDGs.jpg)
 ### IRS Nonprofit Filing vs UN 2019 US Cities Sustainable Development Goal (SDG) Performance
 
 Many nonprofits rely on funding from all levels of government to sustain annual projects and initiatives, however it can be difficult to secure public funding both initially and year-over-year. By linking a city’s SDG performance to key non-profit metrics, we can demonstrate the value of nonprofits in each metro area. These insights can validate funding for nonprofit initiatives and inform future spending to perpetuate success and development for peer cities. 
