@@ -1,4 +1,4 @@
-# Correlation One's Data Science 4 All (DS4A) Empowerment October 2020- February 2021
+# Correlation One's Data Science 4 All (DS4A) Empowerment October 2020- March 2021
 
 DS4A/Empowerment is a 13-week immersive data science training program taught by instructors from MIT and Harvard. 
 Correlation One has made a dedicated effort to make the data skills needed for the growing field of data science accessible to minority and under-represented professionals.
